@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/xbillion-test/static/css/main.c60bcda9.chunk.css",
+    "main.js": "/xbillion-test/static/js/main.9b0b0077.chunk.js",
+    "main.js.map": "/xbillion-test/static/js/main.9b0b0077.chunk.js.map",
+    "runtime-main.js": "/xbillion-test/static/js/runtime-main.01e5b6b7.js",
+    "runtime-main.js.map": "/xbillion-test/static/js/runtime-main.01e5b6b7.js.map",
+    "static/js/2.684fcb32.chunk.js": "/xbillion-test/static/js/2.684fcb32.chunk.js",
+    "static/js/2.684fcb32.chunk.js.map": "/xbillion-test/static/js/2.684fcb32.chunk.js.map",
+    "index.html": "/xbillion-test/index.html",
+    "static/css/main.c60bcda9.chunk.css.map": "/xbillion-test/static/css/main.c60bcda9.chunk.css.map",
+    "static/js/2.684fcb32.chunk.js.LICENSE.txt": "/xbillion-test/static/js/2.684fcb32.chunk.js.LICENSE.txt",
+    "static/media/banner.8da045d7.jpg": "/xbillion-test/static/media/banner.8da045d7.jpg",
+    "static/media/logo.fcac9e42.png": "/xbillion-test/static/media/logo.fcac9e42.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01e5b6b7.js",
+    "static/js/2.684fcb32.chunk.js",
+    "static/css/main.c60bcda9.chunk.css",
+    "static/js/main.9b0b0077.chunk.js"
+  ]
+}
